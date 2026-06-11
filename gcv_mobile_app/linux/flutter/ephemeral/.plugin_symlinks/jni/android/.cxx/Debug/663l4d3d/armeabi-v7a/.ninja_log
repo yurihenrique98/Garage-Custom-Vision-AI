@@ -1,0 +1,14 @@
+# ninja log v5
+1	46	1779468040985954773	CMakeFiles/jni.dir/include/dart_api_dl.c.o	d7dd77237e223fb9
+1	68	1779468041007122639	CMakeFiles/jni.dir/dartjni.c.o	5ab449eca3e00f4a
+1	113	1779468041050188500	CMakeFiles/jni.dir/third_party/global_jni_env.c.o	8f2c741d6c74d68c
+113	171	1779468041112176215	/Users/yurihenrique98/Desktop/AE2-Code-YOLO/gcv_mobile_app/build/jni/intermediates/cxx/Debug/663l4d3d/obj/armeabi-v7a/libdartjni.so	2262a1f74b5eaa38
+1	93	1779476244334913054	/Users/yurihenrique98/Desktop/AE2-Code-YOLO/gcv_mobile_app/build/jni/intermediates/cxx/Debug/663l4d3d/obj/armeabi-v7a/libdartjni.so	2262a1f74b5eaa38
+1	86	1779477787876348732	/Users/yurihenrique98/Desktop/AE2-Code-YOLO/gcv_mobile_app/build/jni/intermediates/cxx/Debug/663l4d3d/obj/armeabi-v7a/libdartjni.so	2262a1f74b5eaa38
+1	127	1779481310998514560	/Users/yurihenrique98/Desktop/AE2-Code-YOLO/gcv_mobile_app/build/jni/intermediates/cxx/Debug/663l4d3d/obj/armeabi-v7a/libdartjni.so	2262a1f74b5eaa38
+0	112	1779484400152806731	/Users/yurihenrique98/Desktop/AE2-Code-YOLO/gcv_mobile_app/build/jni/intermediates/cxx/Debug/663l4d3d/obj/armeabi-v7a/libdartjni.so	2262a1f74b5eaa38
+1	203	1779485244691616013	/Users/yurihenrique98/Desktop/AE2-Code-YOLO/gcv_mobile_app/build/jni/intermediates/cxx/Debug/663l4d3d/obj/armeabi-v7a/libdartjni.so	2262a1f74b5eaa38
+13	115	1779524720244169441	/Users/yurihenrique98/Desktop/AE2-Code-YOLO/gcv_mobile_app/build/jni/intermediates/cxx/Debug/663l4d3d/obj/armeabi-v7a/libdartjni.so	2262a1f74b5eaa38
+2	78	1779532935696273124	/Users/yurihenrique98/Desktop/AE2-Code-YOLO/gcv_mobile_app/build/jni/intermediates/cxx/Debug/663l4d3d/obj/armeabi-v7a/libdartjni.so	2262a1f74b5eaa38
+1	73	1779535094886993714	/Users/yurihenrique98/Desktop/AE2-Code-YOLO/gcv_mobile_app/build/jni/intermediates/cxx/Debug/663l4d3d/obj/armeabi-v7a/libdartjni.so	2262a1f74b5eaa38
+0	71	1779544595054109107	/Users/yurihenrique98/Desktop/AE2-Code-YOLO/gcv_mobile_app/build/jni/intermediates/cxx/Debug/663l4d3d/obj/armeabi-v7a/libdartjni.so	2262a1f74b5eaa38

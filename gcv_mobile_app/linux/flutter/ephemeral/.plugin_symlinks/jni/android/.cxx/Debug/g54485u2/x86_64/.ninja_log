@@ -1,0 +1,16 @@
+# ninja log v5
+0	70	1779550095504320223	CMakeFiles/jni.dir/include/dart_api_dl.c.o	b3a5ae5497be5375
+0	97	1779550095529608245	CMakeFiles/jni.dir/dartjni.c.o	d74a9c580d6bc17b
+0	136	1779550095567233065	CMakeFiles/jni.dir/third_party/global_jni_env.c.o	3e9491dd3ba3dcaf
+136	209	1779550095643127965	/Users/yurihenrique98/Documents/UNI FOLDERS/AE2-Code-YOLO/gcv_mobile_app/build/jni/intermediates/cxx/Debug/g54485u2/obj/x86_64/libdartjni.so	769bdf1f334632e
+3	76	1779562902580710995	/Users/yurihenrique98/Documents/UNI FOLDERS/AE2-Code-YOLO/gcv_mobile_app/build/jni/intermediates/cxx/Debug/g54485u2/obj/x86_64/libdartjni.so	769bdf1f334632e
+2	77	1779575120145889365	/Users/yurihenrique98/Documents/UNI FOLDERS/AE2-Code-YOLO/gcv_mobile_app/build/jni/intermediates/cxx/Debug/g54485u2/obj/x86_64/libdartjni.so	769bdf1f334632e
+1	77	1779579840226483623	/Users/yurihenrique98/Documents/UNI FOLDERS/AE2-Code-YOLO/gcv_mobile_app/build/jni/intermediates/cxx/Debug/g54485u2/obj/x86_64/libdartjni.so	769bdf1f334632e
+3	71	1779627525527683470	/Users/yurihenrique98/Documents/UNI FOLDERS/AE2-Code-YOLO/gcv_mobile_app/build/jni/intermediates/cxx/Debug/g54485u2/obj/x86_64/libdartjni.so	769bdf1f334632e
+3	58	1779628747038700253	/Users/yurihenrique98/Documents/UNI FOLDERS/AE2-Code-YOLO/gcv_mobile_app/build/jni/intermediates/cxx/Debug/g54485u2/obj/x86_64/libdartjni.so	769bdf1f334632e
+3	91	1779664160622434165	/Users/yurihenrique98/Documents/UNI FOLDERS/AE2-Code-YOLO/gcv_mobile_app/build/jni/intermediates/cxx/Debug/g54485u2/obj/x86_64/libdartjni.so	769bdf1f334632e
+3	75	1779687936063733802	/Users/yurihenrique98/Documents/UNI FOLDERS/AE2-Code-YOLO/gcv_mobile_app/build/jni/intermediates/cxx/Debug/g54485u2/obj/x86_64/libdartjni.so	769bdf1f334632e
+3	73	1779692959005585927	/Users/yurihenrique98/Documents/UNI FOLDERS/AE2-Code-YOLO/gcv_mobile_app/build/jni/intermediates/cxx/Debug/g54485u2/obj/x86_64/libdartjni.so	769bdf1f334632e
+2	74	1779742292815719644	/Users/yurihenrique98/Documents/UNI FOLDERS/AE2-Code-YOLO/gcv_mobile_app/build/jni/intermediates/cxx/Debug/g54485u2/obj/x86_64/libdartjni.so	769bdf1f334632e
+3	53	1779781877001639630	/Users/yurihenrique98/Documents/UNI FOLDERS/AE2-Code-YOLO/gcv_mobile_app/build/jni/intermediates/cxx/Debug/g54485u2/obj/x86_64/libdartjni.so	769bdf1f334632e
+2	62	1779811414526447720	/Users/yurihenrique98/Documents/UNI FOLDERS/AE2-Code-YOLO/gcv_mobile_app/build/jni/intermediates/cxx/Debug/g54485u2/obj/x86_64/libdartjni.so	769bdf1f334632e

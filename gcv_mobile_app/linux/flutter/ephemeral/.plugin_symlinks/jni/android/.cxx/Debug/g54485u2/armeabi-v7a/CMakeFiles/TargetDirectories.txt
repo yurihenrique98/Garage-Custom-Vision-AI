@@ -1,0 +1,3 @@
+/Users/yurihenrique98/.pub-cache/hosted/pub.dev/jni-1.0.0/android/.cxx/Debug/g54485u2/armeabi-v7a/CMakeFiles/jni.dir
+/Users/yurihenrique98/.pub-cache/hosted/pub.dev/jni-1.0.0/android/.cxx/Debug/g54485u2/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/yurihenrique98/.pub-cache/hosted/pub.dev/jni-1.0.0/android/.cxx/Debug/g54485u2/armeabi-v7a/CMakeFiles/rebuild_cache.dir

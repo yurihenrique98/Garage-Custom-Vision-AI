@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "261841609959",
+    "project_id": "gcv-ai-c1ba0",
+    "storage_bucket": "gcv-ai-c1ba0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261841609959:android:c6ef8874571b52bbd52e42",
+        "android_client_info": {
+          "package_name": "com.example.gcv_mobile_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPVpCJoVXuvqLtOsNbygULADIIX2q7O8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

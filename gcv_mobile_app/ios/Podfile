@@ -1,0 +1,19 @@
+# Set the platform to match your iPhone 16 Pro Max
+platform :ios, '13.0'
+
+# Standard Flutter setup
+import_with_path = File.expand_path(File.join('..', '..', '..', 'flutter', 'packages', 'flutter_tools', 'bin', 'xcode_backend.dart'))
+
+target 'Runner' do
+  use_frameworks!
+  use_modular_headers!
+
+  # This line is the "magic" that pulls in your image_picker and http plugins
+  flutter_install_all_ios_pods File.dirname(File.realpath(__FILE__))
+end
+
+post_install do |installer|
+  installer.pods_project.targets.each do |target|
+    flutter_additional_ios_build_settings(target)
+  end
+end

@@ -1,0 +1,35 @@
+# macOS
+.DS_Store
+
+# Flutter
+gcv_mobile_app/.dart_tool/
+gcv_mobile_app/build/
+gcv_mobile_app/.flutter-plugins
+gcv_mobile_app/.flutter-plugins-dependencies
+gcv_mobile_app/.packages
+
+# Android/Gradle
+**/.gradle/
+**/local.properties
+**/build/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Environment files
+.env
+*.env
+
+# Stable Diffusion / AI
+models/
+stable-diffusion-webui/
+outputs/
+*.pth
+*.ckpt
+*.safetensors
+
+# VS Code
+.vscode/

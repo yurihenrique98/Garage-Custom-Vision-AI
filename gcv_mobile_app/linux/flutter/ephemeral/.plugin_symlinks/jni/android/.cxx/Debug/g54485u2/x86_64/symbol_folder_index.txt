@@ -1,0 +1,1 @@
+/Users/yurihenrique98/Documents/UNI FOLDERS/AE2-Code-YOLO/gcv_mobile_app/build/jni/intermediates/cxx/Debug/g54485u2/obj/x86_64
